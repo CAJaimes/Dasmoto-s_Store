@@ -3,7 +3,7 @@ h1, h2, h3, p {
 }
 
 h1 {
-  background-image: url("/Users/Carlos/Desktop/Dasmoto's_Store/Resources/Images/image 1.jpeg");
+  background-image: url("../Resources/Images/image 1.jpeg");
   text-align: center;
   font-size: 100px;
   color: Khaki;
